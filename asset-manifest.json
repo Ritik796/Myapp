@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ritik796/Myapp/static/css/main.8959b37f.css",
+    "main.js": "/Ritik796/Myapp/static/js/main.926f07b9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Ritik796/Myapp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Ritik796/Myapp/index.html",
+    "main.8959b37f.css.map": "/Ritik796/Myapp/static/css/main.8959b37f.css.map",
+    "main.926f07b9.js.map": "/Ritik796/Myapp/static/js/main.926f07b9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Ritik796/Myapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8959b37f.css",
+    "static/js/main.926f07b9.js"
+  ]
+}
